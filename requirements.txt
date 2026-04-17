@@ -1,0 +1,6 @@
+mcp>=1.2.0
+anthropic
+httpx
+python-dotenv
+pytest
+pytest-asyncio
